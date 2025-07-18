@@ -4,7 +4,7 @@ A beginner-friendly machine learning project to predict NVIDIA stock closing pri
 
 ---
 
-## 🚀 Features
+##  Features
 - Reads historical stock price data (CSV)
 - Uses features like Open, High, Low, Volume
 - Predicts next-day Close price using regression
@@ -13,7 +13,7 @@ A beginner-friendly machine learning project to predict NVIDIA stock closing pri
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python 3
 - Pandas, NumPy
 - Scikit-learn (LinearRegression)
